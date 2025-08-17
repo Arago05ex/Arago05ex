@@ -1,4 +1,4 @@
-
+<h1>Quien soy?</h1>
 Soy estudiante de una especialización en Ciberseguridad en el IES Mare Nostrum, con formación previa en Administración de Sistemas Informáticos en Red (ASIR). A lo largo de mis prácticas he adquirido experiencia en soporte técnico, administración de Active Directory, gestión de incidencias mediante sistemas de tickets, bases de datos SQL y configuración de cámaras P2P.
 
 Mi objetivo profesional es especializarme en el ámbito de la ciberseguridad, desarrollando competencias en la protección de redes, sistemas y datos, así como en la prevención y respuesta ante incidentes.
